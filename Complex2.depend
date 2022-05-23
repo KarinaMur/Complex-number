@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649404073 source:c:\users\mirkhan\desktop\complex2\main.cpp
+	<iostream>
+	"Complex2.h"
+
+1649404281 source:c:\users\mirkhan\desktop\complex2\complex2.cpp
+	<iostream>
+	<cstdlib>
+	"Complex2.h"
+
+1649404215 c:\users\mirkhan\desktop\complex2\complex2.h
+
